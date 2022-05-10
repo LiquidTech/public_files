@@ -1,4 +1,4 @@
-########################################################
+USD########################################################
 ###       Pure market making strategy config         ###
 ########################################################
 
@@ -12,7 +12,7 @@ maker_market: openware
 maker_market_trading_pair: ETH-USD
 
 # size of each order
-order_amount: 7.17
+order_amount: 10
 
 # How far away from mid price to place the bid order
 # Expressed in decimals : 0.01 = 1% away from mid price at that time
